@@ -24,6 +24,12 @@ This project demonstrates how healthcare companies can:
 ✅ Streamlit UI for easy testing  
 
 ---
+#**Screens**
+
+<img width="3420" height="1796" alt="image" src="https://github.com/user-attachments/assets/3da645de-5c34-4e0a-8472-b46ecdacbe6f" />
+<img width="3356" height="1264" alt="image" src="https://github.com/user-attachments/assets/5e6c5a88-c52e-4565-bb8f-28d286fcad00" />
+
+
 
 # 🧠 Architecture
 
